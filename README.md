@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello
 
-<!--
-**AbstractUmbra/AbstractUmbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm AbstractUmbra. No idea but you're looking here but here goes:
 
-Here are some ideas to get you started:
+## Bio
+My day job is a DevSecOps Engineer, with a specialty in Cryptographic Security. Since you see "Dev" and "Ops" here, you can assume I'm currently using and proficient at Docker, K8s and Helm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillset
+
+This is a huge WIP, but here is my skillset. If you have any suggestions please feel free to contact me using the email provided on my profile.
+
+| Languages | Skill level |
+| --------- | ----------- |
+| **Python** | Proficient |
+| **Rust** | Minimal and improving |
+| **Go** | Nonexistent. Bad DevOps guy here. |
+| Not a lang, but **Shell** | Proficient |
+
+## Work/Projects
+
+A number of my projects are currently closed source until I'm a stage where ~~I won't be roasted~~ am comfortable with the quality of them, not much of a portfolio but I promise I'm good at what I do.
