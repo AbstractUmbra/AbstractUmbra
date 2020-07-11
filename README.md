@@ -1,6 +1,6 @@
 # Hello
 
-I'm AbstractUmbra. No idea but you're looking here but here goes:
+I'm AbstractUmbra. No idea why you're looking here, but here goes:
 
 ## Bio
 My day job is a DevSecOps Engineer, with a specialty in Cryptographic Security. Since you see "Dev" and "Ops" here, you can assume I'm currently using and proficient at Docker, K8s and Helm.
