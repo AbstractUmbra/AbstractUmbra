@@ -18,4 +18,4 @@ This is a huge WIP, but here is my skillset. If you have any suggestions please 
 
 ## Work/Projects
 
-A number of my projects are currently closed source until I'm a stage where ~~I won't be roasted~~ am comfortable with the quality of them, not much of a portfolio but I promise I'm good at what I do.
+A number of my projects are currently closed source until I'm a stage where I ~~won't be roasted~~ am comfortable with the quality of them, not much of a portfolio but I promise I'm good at what I do.
