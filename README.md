@@ -15,7 +15,6 @@ This is a large WIP, but here is my skillset. If you have any suggestions please
 | --------- | ----------- |
 | **Python** | Proficient |
 | **Rust** | Minimal and improving |
-| **Go** | Nonexistent. Bad DevOps guy here. |
 | Not a lang, but **Shell** | Proficient |
 
 ## Work/Projects
