@@ -10,7 +10,7 @@ My name is Alex and I enjoy programming in mainstream languages.
 ***
 
 ## Bio
-My day job is a DevSecOps Engineer. Since you see "Dev" and "Ops" here, you can assume I'm currently using and proficient at Docker and getting better with Kubernetes.
+My day job is a DevOps Engineer (or Platform Engineer depending on the client). Since you see "Dev" and "Ops" here, you can assume I'm currently using and proficient at Docker and getting better with Kubernetes.
 
 Been an avid Python programmer since December 2018 and I rather enjoy the language. However I think my new true love is Rust, so expect a lot of that in my future.
 
